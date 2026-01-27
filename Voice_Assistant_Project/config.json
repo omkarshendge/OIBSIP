@@ -1,0 +1,15 @@
+{
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "sender_email": "your_email@gmail.com",
+        "sender_password": "your_app_password"
+    },
+    "weather": {
+        "api_key": "your_openweathermap_api_key",
+        "default_city": "London"
+    },
+    "openai": {
+        "api_key": "your_openai_api_key_optional"
+    }
+}
